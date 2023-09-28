@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">I am M Zaki ilhami working as Programmer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry in goverment. Skilled in Laravel, Livewire, AlpineJs, RESTfull API’s and Javascript.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/m-zaki-ilhami-b7b306115/](https://www.linkedin.com/in/m-zaki-ilhami-b7b306115/)
+- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/m-zaki-ilhami-b7b306115/](https://www.linkedin.com/in/m-zaki-ilhami-b7b306115/"> Linkedln </a>
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **zaki.ilhami46@gmail.com**
+- 📫 How to reach me **zaki.ilhami46@gmail.com** or in <a href="https://www.instagram.com/mzaki_ilhami/"> Instagram </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
