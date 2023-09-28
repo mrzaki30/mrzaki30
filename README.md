@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, there</h1>
-<h3 align="center">I am M Zaki ilhami working as Programmer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry in goverment. Skilled in Laravel, Livewire, AlpineJs, RESTfull API’s and Javascript.</h3>
+I am M Zaki ilhami working as Programmer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry in goverment. Skilled in Laravel, Livewire, AlpineJs, RESTfull API’s and Javascript
 
 - 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/m-zaki-ilhami-b7b306115/](https://www.linkedin.com/in/m-zaki-ilhami-b7b306115/"> Linkedln </a>
 
